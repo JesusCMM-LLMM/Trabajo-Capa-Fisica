@@ -17,36 +17,36 @@ Son varios los componentes de hardware que garantizan el cumplimiento de las esp
 
 El siguiente hardware forma parte de los componentes pasivos:
 
-Resistencias de terminación
-Antenas
-Tomas de corriente
-Cables
-Conectores
-Conectores en T
+- Resistencias de terminación
+- Antenas
+- Tomas de corriente
+- Cables
+- Conectores
+- Conectores en T
 
 Entre los componentes activos de la capa física se encuentran los siguientes:
 
-Hubs
-Tarjetas de red
-Repetidores
-Transceptores
-Amplificadores
+- Hubs
+- Tarjetas de red
+- Repetidores
+- Transceptores
+- Amplificadores
 
 ¿Qué tecnologías se fundamentan en la capa física?
 Son muchas las tecnologías que ofrecen una capa física y funcionan según los principios del modelo OSI. Entre ellas se encuentran las siguientes:
 
-1-Wire: un protocolo de comunicaciones en serie (transmisión y recepción) que también puede utilizarse como fuente de alimentación.
-2-Bluetooth: el estándar del sector para la transmisión de datos a corta distancia.
-3- DSL: varios estándares de capa física para la transferencia de datos a través de líneas de cobre a altas velocidades de transmisión.
-4- E-carrier: sistema de portadora para la transmisión digital simultánea de diferentes llamadas telefónicas.
-5- Ethernet: la transmisión de datos por cable dentro de una red de área local (LAN, Local Area Network).
-6- FireWire: una antigua interfaz en serie con una alta velocidad de transmisión de datos.
-7- GMS: una norma estandarizada de radiocomunicación móvil para redes de radiocomunicación móvil digital.
-8- IEEE 802.15.4: un estándar para la transmisión en redes WPAN.
-9- IrDA: asociación de empresas para la normalización de receptores de infrarrojos.
-10-ISDN: norma internacional para las redes de telecomunicaciones digitales.
-11- PCI Express: norma para conectar dispositivos periféricos a un procesador principal.
-12- SONET/SDH: una técnica de multiplexación para la transmisión síncrona mediante fibra óptica.
-13- USB: sistema de transferencia de datos entre ordenadores y dispositivos externos.
-14- Wifi: dispositivos y redes WLAN según la norma IEEE 802.11.
-15- X10: un protocolo para la automatización de edificios mediante señales de conmutación.
+- 1-Wire: un protocolo de comunicaciones en serie (transmisión y recepción) que también puede utilizarse como fuente de alimentación.
+- 2-Bluetooth: el estándar del sector para la transmisión de datos a corta distancia.
+- 3- DSL: varios estándares de capa física para la transferencia de datos a través de líneas de cobre a altas velocidades de transmisión.
+- 4- E-carrier: sistema de portadora para la transmisión digital simultánea de diferentes llamadas telefónicas.
+- 5- Ethernet: la transmisión de datos por cable dentro de una red de área local (LAN, Local Area Network).
+- 6- FireWire: una antigua interfaz en serie con una alta velocidad de transmisión de datos.
+- 7- GMS: una norma estandarizada de radiocomunicación móvil para redes de radiocomunicación móvil digital.
+- 8- IEEE 802.15.4: un estándar para la transmisión en redes WPAN.
+- 9- IrDA: asociación de empresas para la normalización de receptores de infrarrojos.
+- 10-ISDN: norma internacional para las redes de telecomunicaciones digitales.
+- 11- PCI Express: norma para conectar dispositivos periféricos a un procesador principal.
+- 12- SONET/SDH: una técnica de multiplexación para la transmisión síncrona mediante fibra óptica.
+- 13- USB: sistema de transferencia de datos entre ordenadores y dispositivos externos.
+- 14- Wifi: dispositivos y redes WLAN según la norma IEEE 802.11.
+- 15- X10: un protocolo para la automatización de edificios mediante señales de conmutación.
