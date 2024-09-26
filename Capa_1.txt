@@ -1,0 +1,37 @@
+-----------------------------------------------------------------------------------------------------------------------
+¿Cuáles son los elementos físicos y lógicos de una red?
+-----------------------------------------------------------------------------------------------------------------------
+Los elementos de una red se dividen en dos categorías: físicos y lógicos.
+
+Elementos Físicos:
+
+ETDs (Equipos de Trabajo Descentralizados): Ordenadores autónomos que se conectan a la red.
+ECDs (Elementos de Conexión de Datos): Adaptadores de red, como tarjetas de red o módems.
+LC (Medio Físico): La línea o cable por donde se transmiten los datos.
+ESD (Elementos de Interconexión): Dispositivos como hubs, switches y routers que permiten la interconexión de diferentes dispositivos en la red.
+Elementos Lógicos:
+
+Sistemas Operativos y Programas: Software que maneja los dispositivos de la red.
+Protocolos de Comunicación: Conjuntos de reglas que permiten la comunicación entre los dispositivos de la red.
+
+
+-----------------------------------------------------------------------------------------------------------------------
+¿Qué funciones realiza la tarjeta de red en la comunicación de datos?
+-----------------------------------------------------------------------------------------------------------------------
+- La tarjeta de red, también conocida como NIC (Network Interface Card), desempeña varias funciones clave en la comunicación de datos dentro de una red:
+- Adaptación de Datos: La tarjeta de red convierte los datos del ordenador en un formato adecuado para ser transmitido a través del medio físico utilizado por la red. Esto incluye la adaptación a los protocolos de comunicación específicos.
+- Intermediario: Actúa como un intermediario entre el ordenador y la red, gestionando la transmisión y recepción de datos.
+- Identificación Única: Cada tarjeta de red tiene un identificador único llamado dirección MAC (Media Access Control), que permite identificar de manera única cada dispositivo en la red.
+- Control de Acceso: La tarjeta de red gestiona el acceso al medio de transmisión, asegurando que los datos se envíen y reciban de manera ordenada y eficiente.
+- Indicadores de Estado: Muchas tarjetas de red incluyen indicadores luminosos que muestran el estado de la conexión, como si hay conexión activa o si se están transmitiendo datos.
+
+-----------------------------------------------------------------------------------------------------------------------
+¿Qué tipos de conexiones puede tener una tarjeta de red?
+-----------------------------------------------------------------------------------------------------------------------
+Una tarjeta de red puede tener varios tipos de conexiones, que permiten la interconexión con diferentes tipos de redes y dispositivos. Algunos de los conectores más comunes son:
+- RJ-45: Este es el conector más utilizado para redes Ethernet. Se utiliza en cables de par trenzado, como el UTP (Unshielded Twisted Pair).
+- BNC: Utilizado en redes coaxiales, este conector es menos común en redes modernas, pero se usaba en redes antiguas.
+- AUI (Attachment Unit Interface): Este conector se utiliza para conectar dispositivos a redes Ethernet, especialmente en configuraciones más antiguas.
+- Antena Inalámbrica: En tarjetas de red inalámbricas, se puede incluir una conexión para una antena que permite la comunicación a través de redes Wi-Fi.
+- Conectores de Fibra Óptica: Algunas tarjetas de red pueden incluir conectores para fibra óptica, como ST, SC o MT-RJ, que permiten la conexión a redes de fibra óptica.
+- Estos conectores permiten que la tarjeta de red se adapte a diferentes tipos de medios de transmisión y tecnologías de red.
