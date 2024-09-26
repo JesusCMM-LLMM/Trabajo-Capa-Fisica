@@ -50,3 +50,25 @@ Son muchas las tecnologías que ofrecen una capa física y funcionan según los 
 - 13- USB: sistema de transferencia de datos entre ordenadores y dispositivos externos.
 - 14- Wifi: dispositivos y redes WLAN según la norma IEEE 802.11.
 - 15- X10: un protocolo para la automatización de edificios mediante señales de conmutación.
+
+  Tarjeta de Red Componentes
+  
+A continuación, se presentan los componentes comunes de una tarjeta de red:
+
+- 1. Controlador de red (Network Controller): Es el corazón de la tarjeta de red, responsable de gestionar la comunicación entre la computadora y la red. Es un chip especializado que ejecuta protocolos de red como TCP/IP, Ethernet, Wi-Fi, etc.
+
+- 2. Interfaz de red física (Physical Layer Interface): Es el componente que se encarga de la conexión física con la red, como por ejemplo, el conector RJ-45 para Ethernet o el conector Wi-Fi para redes inalámbricas.
+
+- 3. Buffer de paquetes (Packet Buffer): Es un área de memoria que almacena los paquetes de datos en tránsito entre la computadora y la red. Esto ayuda a mejorar el rendimiento y reducir la latencia en la comunicación.
+
+- 4. DMA (Direct Memory Access) Controller: Es un circuito que permite al controlador de red acceder directamente a la memoria principal de la computadora, sin necesidad de involucrar al procesador principal. Esto mejora el rendimiento y reduce la carga de trabajo del procesador.
+
+- 5. Interruptor (Interrupt): Es un circuito que envía señales al procesador principal cuando se produce un evento en la tarjeta de red, como la recepción de un paquete o la pérdida de conexión.
+
+- 6. LED (Light Emitting Diode): Son luces indicadoras que se utilizan para mostrar el estado de la conexión, como por ejemplo, la luz verde para indicar que la tarjeta está funcionando correctamente o la luz roja para indicar problemas de conexión.
+
+- 7. Chipsets: Son conjuntos de circuitos integrados que trabajan juntos para proporcionar funcionalidades específicas, como por ejemplo, el chipset Ethernet para manejar la comunicación Ethernet.
+
+- 8. Componentes de soporte: Incluyen componentes como resistores, condensadores, inductores y otros elementos pasivos que se utilizan para estabilizar la señal y proteger los circuitos electrónicos.
+
+Es importante destacar que los componentes específicos pueden variar dependiendo del tipo de tarjeta de red (Ethernet, Wi-Fi, Token Ring, etc.) y del fabricante. Además, algunas tarjetas de red pueden incluir componentes adicionales, como por ejemplo, un controlador de seguridad o un firmware para gestionar la autenticación y autorización en la red.
