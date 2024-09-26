@@ -51,7 +51,7 @@ Son muchas las tecnologías que ofrecen una capa física y funcionan según los 
 - 14- Wifi: dispositivos y redes WLAN según la norma IEEE 802.11.
 - 15- X10: un protocolo para la automatización de edificios mediante señales de conmutación.
 
-  Tarjeta de Red Componentes
+  Componentes de la Tarjeta de Red 
   
 A continuación, se presentan los componentes comunes de una tarjeta de red:
 
