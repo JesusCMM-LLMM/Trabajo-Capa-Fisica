@@ -32,3 +32,21 @@ Repetidores
 Transceptores
 Amplificadores
 
+¿Qué tecnologías se fundamentan en la capa física?
+Son muchas las tecnologías que ofrecen una capa física y funcionan según los principios del modelo OSI. Entre ellas se encuentran las siguientes:
+
+1-Wire: un protocolo de comunicaciones en serie (transmisión y recepción) que también puede utilizarse como fuente de alimentación.
+Bluetooth: el estándar del sector para la transmisión de datos a corta distancia.
+DSL: varios estándares de capa física para la transferencia de datos a través de líneas de cobre a altas velocidades de transmisión.
+E-carrier: sistema de portadora para la transmisión digital simultánea de diferentes llamadas telefónicas.
+Ethernet: la transmisión de datos por cable dentro de una red de área local (LAN, Local Area Network).
+FireWire: una antigua interfaz en serie con una alta velocidad de transmisión de datos.
+GMS: una norma estandarizada de radiocomunicación móvil para redes de radiocomunicación móvil digital.
+IEEE 802.15.4: un estándar para la transmisión en redes WPAN.
+IrDA: asociación de empresas para la normalización de receptores de infrarrojos.
+ISDN: norma internacional para las redes de telecomunicaciones digitales.
+PCI Express: norma para conectar dispositivos periféricos a un procesador principal.
+SONET/SDH: una técnica de multiplexación para la transmisión síncrona mediante fibra óptica.
+USB: sistema de transferencia de datos entre ordenadores y dispositivos externos.
+Wifi: dispositivos y redes WLAN según la norma IEEE 802.11.
+X10: un protocolo para la automatización de edificios mediante señales de conmutación.
