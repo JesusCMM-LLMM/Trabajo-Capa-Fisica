@@ -164,4 +164,54 @@ MEDIOS DE COBRE
 El medio mas utilizado para las comunicaciones de datos es el cableado que utiliza alambres de cobre para señalizar bits de control y datos entre los dispositivos de red.
 El tipo de medio de cobre elegido seespecifica por el estandar de la capa fisica necesario para enlazar las capas de enlace de dos o mas dispositivos de red.
 estos cables pueden utilizarce para para conectar los nodos de una LAN a los dispositivos intermedios como router o switches. tambien para dispositivos WAN a un proveedor de servicios de datos.
+INTERFERENCIA SEÑAL EXTERNA
+
+Los datos se transmiten en cables de cobrecomo impulsos electricos.
+Los tipos de cable con blindage o trenzado de pares de alambre estan diseñados para minimizar la degradacion de señales debido a ruido electronico, lo cual puede estar limitada por
+
+- seleccion de tipo o categoriade cable mas adecuadopara proteger las señales de datosen un entorno de networking determinado
+- Dseño de una infraestructurade cables para evitarlas fuentes de interfercncia posiblesy conocidas
+- Utilizacion de tecnicas del cableado que incluyen el manejo y la terminacion apropiada de los cables
+
+CABLE PAR TRENZDO NO BLINDADO (UTP)
+
+Se utiliza en las LAN ETHERNET . consiste en 4 pares de alambre codificados por color que han sido trenzados y cubiertos por un revestimiento de plastico flexible. E l trenzado cancela las señales no deseadas
+
+ESTANDARES DE CABLEADO UTP
+
+El cableado utp que se encuentra comunmente en el trabajo , las escuelas, los hogares , cumple con los estandares estipulados en conjunto por la asociacion de industrias de las telecomunicaciones (TIA) y la Asociacion de industrias electronicas (EIA). (TIA\EIA)568A Etipula los estandares de cableado para las instalaciones LAN y es el estandar de mayor uso en entornos de cableado LAN.
+elementos definidos
+
+- tipos de cables
+- longitudes de los cables
+- conectores
+- terminacion de los cables
+- mètodos para realizar pruebas de cables
+
+TIPOS DE CABLE UTP
+
+UTP tiene una terminacion de conectore RJ45
+- cable directo de ethernet
+- cruzado de ethernet
+- consola
+
+OTROS CABLES DE COBRE
+
+- coaxial
+-par trenzado bindado
+
+CABLE COAXIAL
+Consiste en un conector de cobre rodeado con una capa de aislante flexible.
+
+USO DE CABLE COAXIAL
+es el medio de uso mas frecuente para transportar señales elevadas de radiofrecuencia mediante cableado, especialmente señales de television por cable.
+
+CABLE DE PAR TRENZADO BLINDADO
+El cable stp cubre todo el grupo de alambres dentro del cable al igual que los pares de alambres individuales.stp ofrece una mejor proteccion contra el ruido que el cableado utp pero a un precio mayor
+
+SEGURIDA DE LOS MEDIOS DE COBRE
+
+PELIGRO POR ELECTRICIDAD
+Los alambres de cobre puedes conducir la electricidad de manera no deseada. Un dispositivo de red defectuoso podria conducir la corriente al shasis de otros dispositivos de red. para evitar esto y toros es necesario instalar correctamente el cableado segun especificaciones relevantes y los codigos de edificacion
+
 
