@@ -32,6 +32,16 @@ Entre los componentes activos de la capa física se encuentran los siguientes:
 - Transceptores
 - Amplificadores
 
+  Importancia de la capa física en el diseño de redes
+  
+La capa física del modelo OSI es clave en toda esta infraestructura de redes y puede que a estas alturas del artículo tengas bastante claro los motivos. A modo de resumen, aquí la importancia en el diseño:
+
+Es el pilar fundamental para que se produzca la transmisión de datos en el resto de las capas del modelo OSI.
+Es la facilitadora para transformar las señales físicas en información binaria que atraviese el esto del sistema.
+Los materiales de la capa física son determinantes para influir en el ancho de banda y la calidad de la señal.
+La capa física también es crucial para escalar la amplitud de la señal o la red.
+Es una de las claves para solucionar problemas de red y realizar ajustes para optimizar la transmisión de la señal con cableado, ubicación o materiales.
+
 ¿Qué tecnologías se fundamentan en la capa física?
 Son muchas las tecnologías que ofrecen una capa física y funcionan según los principios del modelo OSI. Entre ellas se encuentran las siguientes:
 
