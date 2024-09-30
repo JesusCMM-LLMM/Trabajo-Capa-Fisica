@@ -148,3 +148,20 @@ ventajas
 REDUCCION DE ERRORES EN EL NIVEL DE BITS
 
 Este paso requiere la sincronizacion de los tiempos entre el receptor y el transmisor; los grupos de codigos se diseñan para que los simbolos obliguen la introduccion de un amplio numero de transacciones de bits en los medios para sincronizar estos tiempos
+
+MEDIOS FISICOS: CONEXION DE LA COMUNICACION
+
+Los estandares para los medios de cobre se definen segun lo siguiente
+
+- Tipo de cableado de cobre utilizado
+- Ancho de banda de la comunicacion
+- Tipo de conectores utilizados
+- Diagrama de pines y codigos de colores de las conexiones a los medios
+- distancia maxima de los medios
+
+MEDIOS DE COBRE
+
+El medio mas utilizado para las comunicaciones de datos es el cableado que utiliza alambres de cobre para señalizar bits de control y datos entre los dispositivos de red.
+El tipo de medio de cobre elegido seespecifica por el estandar de la capa fisica necesario para enlazar las capas de enlace de dos o mas dispositivos de red.
+estos cables pueden utilizarce para para conectar los nodos de una LAN a los dispositivos intermedios como router o switches. tambien para dispositivos WAN a un proveedor de servicios de datos.
+
