@@ -213,5 +213,57 @@ SEGURIDA DE LOS MEDIOS DE COBRE
 
 PELIGRO POR ELECTRICIDAD
 Los alambres de cobre puedes conducir la electricidad de manera no deseada. Un dispositivo de red defectuoso podria conducir la corriente al shasis de otros dispositivos de red. para evitar esto y toros es necesario instalar correctamente el cableado segun especificaciones relevantes y los codigos de edificacion
+MEDIOS DE FIBRA
+
+Utiliza fibras de plastico o de vidrio para enviar los impulsos de luz desde el origen hacia el destino. Los bits se codifican en la fibra como impulsos de luz; puede generar velocidades superiores de ancho de banda para transmitir datos sin procesar
+
+COMPARACION ENTRE CABLEADO DE COBRE Y FIBRA OPTICA
+
+La fibra optica es inmune a la interferencia electromagnetica y no conduce corriente electrica no deseada cuando existe y problema de conexion a tierra.las fibras pueden utilizarce en longitudes mucho mayores que el cobre. la fibra es mas costosa y se requiere mejor teminacion de la misma
+
+PRODUCCION Y DETECCION DE SEÑALES OPTICAS
+
+lazer odiodos de emision de luz.La luz del lazer transmitida atravez del cableado de fibra optica puede dañar el ojo humano, se debe tener precaucion y evitar mirar dentro del extremo de una fibra optica activa.
+
+FIBRA MULTIMODO Y MONO MODO
+
+- MONOMODO: transporta un solo rayo de luz, generalmente emitido desde un laser
+- MULTIMODO: utiliza emisores LED que no generan una unica ola de luz coherente
+
+MEDIOS INALAMBRICOS
+
+Transpot¡rtan señales electromagneticas mediante frecuencias de microondas y radiofrecuencias que representan los digitos binarios de las comunicaciones de datos.como medio de red no se limita a conductores o canaletas
+
+TIPOS DE REDES INALAMBRICAS
+
+Los 4 estandares comunes de comunicacion de datos que se aplican a los medios inalambricos son
+
+- IEEE Estandar 802.11: tecnologia LAN inalambrica
+- IEEE Estandar 802.16 utiliza una tecnologia punto amultipunto para generar un acceso de ancho de banda inalambrico
+- IEEE Estandar 802.15: red area persoanl inalambrica
+- sistema global para comunicaciones moviles (GSM)
+
+LAN INALAMBRICA
+
+Requiere de los dispositivos de red
+
+- PUNTO DE ACCESO INALAMBRICO(AP):concntra las señales inalambricas de los usuarios y se conecta atravez de un cable de cobre, ala infraestructura de red existente basada en cobre, como ethernet
+- ADAPTADORES NIC INALAMBRICOS: Proporciona capacidad de comunicacion inalambrica a cada host de la red
+
+CONECTORES DE MEDIOS
+
+CONECTORES COMUNES DE MEDIOS DE COBRE
+
+El conector RJ45 definido por ISO 8877 se utiliza para diferentes especificaciones de la capa fisica en las que se incluye ethernet. otra especificacion EIA-TIA568 describe los codigos de elcolor de los cables para colocar pines a las asignaciones conexion cruzada y ethernet
+
+TERMINACION CORRECTA DEL CONECTOR
+
+Cada vez que se termina un cableado de cobre existe la posibilidad de que se pierda la señal y de que se genere ruido en el circuito de comunicacion. es fundamental que todas las terminaciones de medios de cobre sean de calidad superior para garantizar un funcionamiento optimo con tecnologias de rede actuales y futuras.
+
+CONECTORES COMUNES DE FIBRA OPTICA
+
+PUNTA RECTA (ST): utilizado con fibra multimodo
+CONECTOR SUSCRIPTOR(SC): conector que utiliza un mecanismo de doble efecto para asegurar al insercion positiva, se utiliza con fibra monomodo
+CONECTOR LUCENT (LC): conector pequeño que esta adquiriendo popularidad en su uso con fibra monomodo
 
 
