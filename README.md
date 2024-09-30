@@ -1,3 +1,14 @@
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/b9b459e6-c079-44f8-9bf8-c729b67f8c18)
+
+
+
+
+
 # Trabajo-Capa-Fisica
 ¿Cúal es la capa física del sistem OSI?
 La capa física es la responsable de los equipos físicos y la que posibilita la transferencia de datos, como cables y routers instalados en la red.
